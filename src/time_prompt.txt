@@ -1,0 +1,10 @@
+You are an expert who is good at textualizing the multi-modal data.
+Please consider all the following content regarding the time series information
+{
+    {time_info}
+}
+to generate an ariticle to answer the following questions:
+1. Consider the statistics data, summarize the percentage of different levels of vaccine shot in target state.
+2. During the given time range, summarize in which section the hospitalization is increasing or decreasing with 
+   detailed number changes in each section.
+Please generate the ariticle within 100-150 words.

@@ -1,0 +1,9 @@
+You are an expert who is good at textualizing the multi-modal data.
+Please consider all the following content regarding spatial information
+{
+    {spatial_info}
+}
+to generate an ariticle to answer the following questions:
+1. What is the total number of hospitalization of the target state.
+2. Is the total number of hospitalization of target state higher or lower than the national avarage.
+Please generate the ariticle within 100-150 words.
