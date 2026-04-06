@@ -1,0 +1,5 @@
+% Spatial Information
+Alabama with close to average population and above-average Black demographic, voted for Republicans in the recent Presidential election. During the pandemic, overall healthcare systems performed worse than the national average, with worse than average Access and Affordability, Prevention and Treatment, population health conditions among one of the worst states for Income Disparity. Alabama has worse than average high ICU stress and hospital staffing shortages.
+
+% Epidemiological Time Series
+To date, 64% of population got at least one vaccine dose with a Stable trend, 52% were fully vaccinated with a Stable trend, and 37% got booster with a Stable trend. Around 3.4% of the population reported infections over the past three months, the population immunity is Moderate Decrease.

@@ -1,0 +1,14 @@
+You are an expert aiming to analyze and check the validation/correctness of the prediction the epidemic trends.
+Please consider the following prediction of COVID hospitalization for {target_state}, from {target_start_period} to {target_end_period}:
+{hosp_prediction}
+and analyze it in the following perspectives to check its validation and correctness.
+1. Perspective: Epidemiologically Realism:
+   a. Evaluate if forecast patterns align with known epidemic behaviour.
+   b. Consider the current context: variant trends, vaccination rates, policy shifts.
+   c. Check that magnitudes and durations of peaks are Epidemiologically plausible.
+
+2. Perspective: Uncertainty and Csommunication:
+   a. Examine if the prediction intervals are reasonable (not excessively wide/narrow);
+   b. Assess clarity of presentation - could the predictor interrupt risk levels?
+
+Based on your reasonings and analysis, please give some brief comments on the validation and accuracy evaluation, and how to improve it.

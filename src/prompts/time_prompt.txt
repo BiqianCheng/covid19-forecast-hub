@@ -1,0 +1,7 @@
+You are an expert who is good at textualizing the multi-modal data.
+Consider the following history of the COVID hospitalizations in {target_state}
+{
+    {time_info}
+}
+where the dates are all Saturdays, and the hospitalization means the number of hospitalization due to COVID-19 in the week of corresponding date.
+Please generate a summarized analysis of hospitalizations trend in 100-150 words.
