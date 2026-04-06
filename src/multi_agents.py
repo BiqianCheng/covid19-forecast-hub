@@ -145,8 +145,9 @@ if __name__ == "__main__":
     # Apply the Gemini API to generate the target prompt
     import google.generativeai as genai
     from pathlib import Path
-    genai.configure(api_key="AIzaSyCjRmzYq_84r2YohT1iztXOjpYHEfV9kvQ")
+    genai.configure(api_key="")
     model = genai.GenerativeModel('gemini-2.5-pro')
+    # AIzaSyCjRmzYq_84r2YohT1iztXOjpYHEfV9kvQ
 
     ''' Textualize the original data '''
     # create the Textualize ChatAgent
